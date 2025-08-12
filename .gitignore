@@ -1,0 +1,18 @@
+# Build results
+bin/
+obj/
+.vs/
+*.user
+*.suo
+.idea/
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+*.db
+*.log
+*.bak
+.env
+.env.*
+node_modules/
